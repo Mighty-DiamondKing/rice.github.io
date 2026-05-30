@@ -10,7 +10,7 @@
     body{
       margin:0;
       font-family: Arial, sans-serif;
-      background:cyan;
+      background:#e6f2ff;
       color:#333;
     }
 
