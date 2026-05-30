@@ -9,13 +9,13 @@
 
     body{
       margin:0;
-      font-family: Arial, sans-serif;
+      font-family: Times New Roman, Times New Roman;
       background:#e6f2ff;
       color:#333;
     }
 
     header{
-      background:#2e8b57;
+      background:#f4fff2;
       color:white;
       text-align:center;
       padding:25px;
